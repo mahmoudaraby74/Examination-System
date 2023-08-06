@@ -1,0 +1,30 @@
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\2.C#\Exam\Data\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\HP\Downloads\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
